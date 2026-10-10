@@ -1,0 +1,8 @@
+leg,from_vertex,from_location,to_vertex,to_location,edge_weight_km,cumulative_km
+1,S,Gaston Park,A,St. Augustine Cathedral,0.093833,0.093833
+2,A,St. Augustine Cathedral,B,Duaw Park,0.071928,0.165761
+3,B,Duaw Park,C,Xavier University,0.776337,0.942099
+4,C,Xavier University,D,Cogon Public Market,0.439542,1.381641
+5,D,Cogon Public Market,F,Limketkai Mall,0.749729,2.13137
+6,F,Limketkai Mall,E,Centrio Mall,0.594672,2.726042
+7,E,Centrio Mall,S,Gaston Park,1.462543,4.188585

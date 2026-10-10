@@ -1,0 +1,29 @@
+CDO BRUTE FORCE ROUTE OPTIMIZER — PIT FINAL
+
+1. Open this folder in VS Code.
+2. Open Terminal.
+3. Install packages once:
+
+   py -m pip install -r requirements.txt
+
+4. For the required recorded program run:
+
+   py main.py --standard
+
+SHOW THESE FILES AFTER THE RUN:
+- output/standard_assignment/distance_matrix.csv
+- output/standard_assignment/weighted_graph_model.png
+- output/standard_assignment/all_routes_ranked.csv
+- output/standard_assignment/optimal_route_edge_calculation.csv
+- output/standard_assignment/verification_report.txt
+- output/standard_assignment/result_summary.txt
+- output/standard_assignment/google_maps_best_route.txt
+
+OPTIONAL USER-GENERATED EXTENSION:
+
+   py main.py --interactive
+
+READ BEFORE RECORDING:
+- references/ASSIGNMENT_ALIGNMENT.md
+- references/PRESENTATION_NOTES.md
+- references/REFERENCES.md

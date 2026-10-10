@@ -1,0 +1,27 @@
+CDO BRUTE FORCE ROUTE OPTIMIZER — STANDARD ASSIGNMENT RESULT
+==============================================================================
+
+Application: tourist itinerary / landmark visit in Cagayan de Oro City
+Start: Gaston Park
+Objective: minimize total geographic distance
+Graph: weighted complete undirected graph
+Units: kilometres
+Data status: Standard coordinates are frozen PPT data; Google Maps links are provided for visual verification.
+
+Routes evaluated: 720
+Execution time: 0.002422 seconds
+Optimal route labels: S -> A -> B -> C -> D -> F -> E -> S
+Optimal route: Gaston Park -> St. Augustine Cathedral -> Duaw Park -> Xavier University -> Cogon Public Market -> Limketkai Mall -> Centrio Mall -> Gaston Park
+Minimum total distance: 4.188585 km
+
+Optimality: PROVEN OPTIMAL for this exact weight matrix because every possible route permutation was evaluated.
+
+ROUTE VERIFICATION
+========================================================================
+Closed tour: YES
+All locations present: YES
+Each location visited exactly once before return: YES
+Recalculated total: 4.188585 km
+Algorithm total: 4.188585 km
+Totals match: YES
+Valid TSP tour: YES

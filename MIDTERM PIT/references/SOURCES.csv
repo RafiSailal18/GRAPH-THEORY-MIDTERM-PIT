@@ -1,0 +1,8 @@
+source,purpose,url
+TMJM Brute Force/TSP paper,"Algorithm, optimality, complexity",https://doi.org/10.62071/tmjm.v6i2.716
+Python itertools.permutations,Generate every candidate order,https://docs.python.org/3/library/itertools.html#itertools.permutations
+PSA PSGC CDO Barangays,Official citywide administrative dataset,https://psa.gov.ph/classification/psgc/barangays/1030500000
+Google Maps,Standard-mode visual verification,https://www.google.com/maps
+OpenStreetMap,Interactive road/geographic data,https://www.openstreetmap.org/copyright
+Nominatim,Interactive geocoding,https://nominatim.org/release-docs/latest/api/Search/
+OSRM,Interactive road matrix/geometry,https://project-osrm.org/docs/v5.24.0/api/

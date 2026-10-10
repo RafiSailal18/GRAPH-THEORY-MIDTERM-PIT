@@ -1,0 +1,30 @@
+Rank 1: 4.189 km
+Gaston Park -> St. Augustine Cathedral -> Duaw Park -> Xavier University -> Cogon Public Market -> Limketkai Mall -> Centrio Mall -> Gaston Park
+
+Rank 2: 4.189 km
+Gaston Park -> Centrio Mall -> Limketkai Mall -> Cogon Public Market -> Xavier University -> Duaw Park -> St. Augustine Cathedral -> Gaston Park
+
+Rank 3: 4.192 km
+Gaston Park -> Duaw Park -> St. Augustine Cathedral -> Xavier University -> Cogon Public Market -> Limketkai Mall -> Centrio Mall -> Gaston Park
+
+Rank 4: 4.192 km
+Gaston Park -> Centrio Mall -> Limketkai Mall -> Cogon Public Market -> Xavier University -> St. Augustine Cathedral -> Duaw Park -> Gaston Park
+
+Rank 5: 4.192 km
+Gaston Park -> St. Augustine Cathedral -> Duaw Park -> Centrio Mall -> Limketkai Mall -> Cogon Public Market -> Xavier University -> Gaston Park
+
+Rank 6: 4.192 km
+Gaston Park -> Xavier University -> Cogon Public Market -> Limketkai Mall -> Centrio Mall -> Duaw Park -> St. Augustine Cathedral -> Gaston Park
+
+Rank 7: 4.193 km
+Gaston Park -> Duaw Park -> St. Augustine Cathedral -> Centrio Mall -> Limketkai Mall -> Cogon Public Market -> Xavier University -> Gaston Park
+
+Rank 8: 4.193 km
+Gaston Park -> Xavier University -> Cogon Public Market -> Limketkai Mall -> Centrio Mall -> St. Augustine Cathedral -> Duaw Park -> Gaston Park
+
+Rank 9: 4.325 km
+Gaston Park -> St. Augustine Cathedral -> Duaw Park -> Cogon Public Market -> Limketkai Mall -> Centrio Mall -> Xavier University -> Gaston Park
+
+Rank 10: 4.325 km
+Gaston Park -> Xavier University -> Centrio Mall -> Limketkai Mall -> Cogon Public Market -> Duaw Park -> St. Augustine Cathedral -> Gaston Park
+

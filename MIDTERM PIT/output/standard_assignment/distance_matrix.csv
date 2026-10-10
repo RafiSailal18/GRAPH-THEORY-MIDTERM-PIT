@@ -1,0 +1,8 @@
+FROM / TO,S - Gaston Park,A - St. Augustine Cathedral,B - Duaw Park,C - Xavier University,D - Cogon Public Market,E - Centrio Mall,F - Limketkai Mall
+S - Gaston Park,0.0000,0.0938,0.1657,0.6172,1.0566,1.4625,1.7462
+A - St. Augustine Cathedral,0.0938,0.0000,0.0719,0.7075,1.1464,1.5539,1.8396
+B - Duaw Park,0.1657,0.0719,0.0000,0.7763,1.2146,1.6248,1.9109
+C - Xavier University,0.6172,0.7075,0.7763,0.0000,0.4395,0.9826,1.1488
+D - Cogon Public Market,1.0566,1.1464,1.2146,0.4395,0.0000,0.7833,0.7497
+E - Centrio Mall,1.4625,1.5539,1.6248,0.9826,0.7833,0.0000,0.5947
+F - Limketkai Mall,1.7462,1.8396,1.9109,1.1488,0.7497,0.5947,0.0000

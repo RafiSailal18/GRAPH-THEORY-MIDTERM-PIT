@@ -1,0 +1,8 @@
+vertex,name,latitude,longitude,role,data_status,google_maps_url,source_note
+S,Gaston Park,8.47542,124.64214,START,FROZEN_PPT_DATA,https://www.google.com/maps/search/?api=1&query=Gaston+Park%2C+Cagayan+de+Oro+City%2C+Philippines,Frozen presentation coordinate; Google Maps link is for visual verification.
+A,St. Augustine Cathedral,8.47500,124.64140,DEST,FROZEN_PPT_DATA,https://www.google.com/maps/search/?api=1&query=St.+Augustine+Cathedral%2C+Cagayan+de+Oro+City%2C+Philippines,Frozen presentation coordinate; Google Maps link is for visual verification.
+B,Duaw Park,8.47465,124.64085,DEST,FROZEN_PPT_DATA,https://www.google.com/maps/search/?api=1&query=Duaw+Park%2C+Cagayan+de+Oro+City%2C+Philippines,Frozen presentation coordinate; Google Maps link is for visual verification.
+C,Xavier University,8.47666,124.64761,DEST,FROZEN_PPT_DATA,https://www.google.com/maps/search/?api=1&query=Xavier+University%2C+Cagayan+de+Oro+City%2C+Philippines,Frozen presentation coordinate; Google Maps link is for visual verification.
+D,Cogon Public Market,8.47743,124.65153,DEST,FROZEN_PPT_DATA,https://www.google.com/maps/search/?api=1&query=Cogon+Public+Market%2C+Cagayan+de+Oro+City%2C+Philippines,Frozen presentation coordinate; Google Maps link is for visual verification.
+E,Centrio Mall,8.48447,124.65179,DEST,FROZEN_PPT_DATA,https://www.google.com/maps/search/?api=1&query=Centrio+Mall%2C+Cagayan+de+Oro+City%2C+Philippines,Frozen presentation coordinate; Google Maps link is for visual verification.
+F,Limketkai Mall,8.48197,124.65657,DEST,FROZEN_PPT_DATA,https://www.google.com/maps/search/?api=1&query=Limketkai+Mall%2C+Cagayan+de+Oro+City%2C+Philippines,Frozen presentation coordinate; Google Maps link is for visual verification.

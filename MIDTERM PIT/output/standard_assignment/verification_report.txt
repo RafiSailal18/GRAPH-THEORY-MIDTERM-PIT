@@ -1,0 +1,9 @@
+ROUTE VERIFICATION
+========================================================================
+Closed tour: YES
+All locations present: YES
+Each location visited exactly once before return: YES
+Recalculated total: 4.188585 km
+Algorithm total: 4.188585 km
+Totals match: YES
+Valid TSP tour: YES

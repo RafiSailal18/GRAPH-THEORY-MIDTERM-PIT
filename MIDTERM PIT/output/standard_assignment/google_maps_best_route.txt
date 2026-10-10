@@ -1,0 +1,6 @@
+GOOGLE MAPS VISUAL-VERIFICATION LINK
+==================================================
+
+https://www.google.com/maps/dir/?api=1&origin=Gaston+Park%2C+Cagayan+de+Oro+City%2C+Philippines&destination=Gaston+Park%2C+Cagayan+de+Oro+City%2C+Philippines&waypoints=St.+Augustine+Cathedral%2C+Cagayan+de+Oro+City%2C+Philippines|Duaw+Park%2C+Cagayan+de+Oro+City%2C+Philippines|Xavier+University%2C+Cagayan+de+Oro+City%2C+Philippines|Cogon+Public+Market%2C+Cagayan+de+Oro+City%2C+Philippines|Limketkai+Mall%2C+Cagayan+de+Oro+City%2C+Philippines|Centrio+Mall%2C+Cagayan+de+Oro+City%2C+Philippines&travelmode=driving
+
+Note: Google Maps is used here for visual verification. The Standard Mode numeric weights are the Haversine values saved in distance_matrix.csv.

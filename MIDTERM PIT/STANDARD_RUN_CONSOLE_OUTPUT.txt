@@ -1,0 +1,50 @@
+
+==============================================================================
+STANDARD ASSIGNMENT MODE — CDO TOURIST ITINERARY
+==============================================================================
+Problem   : Start at Gaston Park, visit every required landmark once,
+            then return to Gaston Park.
+Objective : Minimize TOTAL GEOGRAPHIC DISTANCE in kilometres.
+Graph     : Weighted, complete, UNDIRECTED
+Vertices  : Required locations
+Edges     : Travel connections between every pair of vertices
+Weights   : Haversine geographic distance (km)
+Routes    : (7 - 1)! = 6! = 720
+
+INPUT DATA
+S: Gaston Park                  (8.47542, 124.64214)
+A: St. Augustine Cathedral      (8.47500, 124.64140)
+B: Duaw Park                    (8.47465, 124.64085)
+C: Xavier University            (8.47666, 124.64761)
+D: Cogon Public Market          (8.47743, 124.65153)
+E: Centrio Mall                 (8.48447, 124.65179)
+F: Limketkai Mall               (8.48197, 124.65657)
+
+------------------------------------------------------------------------------
+BRUTE FORCE RESULT
+------------------------------------------------------------------------------
+Routes evaluated : 720
+Optimal route    : S -> A -> B -> C -> D -> F -> E -> S
+Minimum distance : 4.189 km
+Execution time   : 0.000780 seconds
+
+ROUTE WITH LOCATION NAMES
+Gaston Park -> St. Augustine Cathedral -> Duaw Park -> Xavier University -> Cogon Public Market -> Limketkai Mall -> Centrio Mall -> Gaston Park
+
+LEG-BY-LEG RECALCULATION
+Leg 1: S -> A = 0.093833 km
+Leg 2: A -> B = 0.071928 km
+Leg 3: B -> C = 0.776337 km
+Leg 4: C -> D = 0.439542 km
+Leg 5: D -> F = 0.749729 km
+Leg 6: F -> E = 0.594672 km
+Leg 7: E -> S = 1.462543 km
+Recalculated total = 4.188585 km
+
+VALIDATION
+Closed tour: YES
+Every required location exactly once: YES
+Total matches edge weights: YES
+Proven optimal for this matrix: YES
+
+Output folder: /mnt/data/CDO_Brute_Force_Route_Optimizer_PIT_Final/output/standard_assignment
