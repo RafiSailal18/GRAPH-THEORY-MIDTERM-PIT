@@ -1,0 +1,12 @@
+INTERACTIVE CDO ROAD RESULT
+======================================================================
+Graph: weighted directed graph
+Weights: OSRM driving-road distance in km
+Routes evaluated: 120
+Optimal route: gaston -> cathedral -> xavier -> cogon -> limketkai -> duaw -> gaston
+Minimum distance: 5.852 km
+Estimated matrix travel time: 15.2 min
+Brute Force runtime: 0.000365 sec
+Valid closed tour: YES
+Optimality: proven optimal for this selected OSRM matrix because every permutation was evaluated.
+Data: © OpenStreetMap contributors; geocoding Nominatim; road matrix OSRM.

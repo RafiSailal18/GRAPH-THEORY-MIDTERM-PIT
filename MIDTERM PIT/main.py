@@ -667,7 +667,7 @@ def main():
         print("\n" + "="*78)
         print("CDO BRUTE FORCE ROUTE OPTIMIZER — PIT FINAL")
         print("="*78)
-        print("1. Standard Assignment Demo (matches PPT)")
+        print("1. PIT Demo")
         print("2. Interactive CDO Road Mode (user-generated)")
         print("3. Browse Full CDO Dataset")
         print("4. Exit")

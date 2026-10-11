@@ -9,7 +9,7 @@ Units: kilometres
 Data status: Standard coordinates are frozen PPT data; Google Maps links are provided for visual verification.
 
 Routes evaluated: 720
-Execution time: 0.002422 seconds
+Execution time: 0.001045 seconds
 Optimal route labels: S -> A -> B -> C -> D -> F -> E -> S
 Optimal route: Gaston Park -> St. Augustine Cathedral -> Duaw Park -> Xavier University -> Cogon Public Market -> Limketkai Mall -> Centrio Mall -> Gaston Park
 Minimum total distance: 4.188585 km

@@ -1,0 +1,7 @@
+vertex,name,latitude,longitude,source
+S,gaston,8.4753505,124.6417574,OpenStreetMap/Nominatim
+A,cathedral,8.4749735,124.6414705,OpenStreetMap/Nominatim
+B,duaw,8.4757506,124.6412306,OpenStreetMap/Nominatim
+C,xavier,8.4766112,124.6472447,OpenStreetMap/Nominatim
+D,cogon,8.4757919,124.6520032,OpenStreetMap/Nominatim
+E,limketkai,8.4819829,124.6563538,OpenStreetMap/Nominatim

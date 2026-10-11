@@ -1,0 +1,30 @@
+Rank 1: 5.852 km
+gaston -> cathedral -> xavier -> cogon -> limketkai -> duaw -> gaston
+
+Rank 2: 5.858 km
+gaston -> duaw -> cathedral -> xavier -> cogon -> limketkai -> gaston
+
+Rank 3: 5.891 km
+gaston -> duaw -> xavier -> cogon -> limketkai -> cathedral -> gaston
+
+Rank 4: 5.891 km
+gaston -> xavier -> cogon -> limketkai -> cathedral -> duaw -> gaston
+
+Rank 5: 5.899 km
+gaston -> xavier -> cogon -> limketkai -> duaw -> cathedral -> gaston
+
+Rank 6: 5.906 km
+gaston -> cathedral -> duaw -> xavier -> cogon -> limketkai -> gaston
+
+Rank 7: 6.094 km
+gaston -> cathedral -> xavier -> limketkai -> cogon -> duaw -> gaston
+
+Rank 8: 6.101 km
+gaston -> duaw -> cathedral -> xavier -> limketkai -> cogon -> gaston
+
+Rank 9: 6.112 km
+gaston -> cathedral -> cogon -> limketkai -> xavier -> duaw -> gaston
+
+Rank 10: 6.119 km
+gaston -> duaw -> cathedral -> cogon -> limketkai -> xavier -> gaston
+

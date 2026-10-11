@@ -1,0 +1,7 @@
+leg,from_vertex,from_location,to_vertex,to_location,edge_weight_km,cumulative_km
+1,S,gaston,A,cathedral,0.0238,0.0238
+2,A,cathedral,C,xavier,0.8069,0.8307
+3,C,xavier,D,cogon,0.6674,1.4981
+4,D,cogon,E,limketkai,1.2316,2.7297
+5,E,limketkai,B,duaw,3.0269,5.7566
+6,B,duaw,S,gaston,0.095,5.8516
